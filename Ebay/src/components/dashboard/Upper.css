@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.upper{
+width: 100%;
+background-color: aquamarine;
+padding: 10px 0;
+}
+
+.upper h2{
+    color: blue;
+    font-size: 30px;
+    margin-left: 10px;
+}
